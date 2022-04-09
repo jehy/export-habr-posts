@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.21.2",
     "config": "^3.3.1",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "turndown": "^6.0.0"
   }
 }
